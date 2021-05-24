@@ -1,2 +1,3 @@
 # JavaScript-Algorithms-and-Data-Structures
-The projects I did during the course.
+Verify this certification at [here](https://freecodecamp.org/certification/drifter_kabir/javascript-algorithms-and-data-structures)
+
